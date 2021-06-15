@@ -1,0 +1,44 @@
+*{
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.container{
+  margin: 10px auto 0 auto;
+  width: 1000px;
+}
+
+.clear{
+  clear:none
+}
+.header{
+ background-color: aquamarine;
+padding: 30px;
+}
+.main{
+background-color:coral;
+padding: 50px;
+width: 700px;
+float: left;
+
+}
+.sidebar{
+background-color: darkgrey;
+width: 300px;
+padding: 50px;
+float: left;
+
+}
+.footer{
+background-color: cornflowerblue;
+padding: 70px;
+
+
+}
+img{
+  float: right;
+}
+
+
+
